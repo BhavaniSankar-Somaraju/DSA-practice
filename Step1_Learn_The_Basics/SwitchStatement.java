@@ -28,5 +28,6 @@ public class SwitchStatement {
         System.out.println("Enter proper grades only...");
 
     }
+    s.close();
     }
 }
